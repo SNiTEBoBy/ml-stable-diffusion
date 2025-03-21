@@ -17,7 +17,7 @@ setup(
         "coremltools>=8.0",
         "diffusers[torch]==0.30.2",
         "torch",
-        "transformers==4.44.2",
+        "transformers==4.48.0",
         "huggingface-hub==0.24.6",
         "scipy",
         "numpy<1.24",
