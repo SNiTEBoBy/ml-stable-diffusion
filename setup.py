@@ -15,7 +15,7 @@ setup(
     author='Apple Inc.',
     install_requires=[
         "coremltools>=8.0",
-        "diffusers[torch]==0.30.2",
+        "diffusers[torch]==0.38.0",
         "torch",
         "transformers==4.44.2",
         "huggingface-hub==0.24.6",
